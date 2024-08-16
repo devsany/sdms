@@ -4,6 +4,8 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
+      <title>SDMS</title>
+
       <body>
         <Main />
         <NextScript />
