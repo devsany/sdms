@@ -1,8 +1,4 @@
 import { Inter } from "next/font/google";
-import { useEffect } from "react";
-import API_DATA_STUDENT from "./student/show_api_data";
-import Link from "next/link";
-
 import Link from "next/link";
 
 const inter = Inter({ subsets: ["latin"] });
